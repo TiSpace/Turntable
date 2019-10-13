@@ -1,3 +1,3 @@
 # Turntable
 TurnTable to present trophy and others
-![Gearing meachnism](.\GearingMeachnism.PNG)
+![Gearing meachnism](GearingMeachnism.PNG)
